@@ -3,10 +3,10 @@ import Animated from "../components/Animated";
 
 const Hero = () => {
   const avatars = [
-    "/assets/user-1.jpeg",
-    "/assets/user-2.jpeg",
-    "/assets/user-3.jpeg",
-    "/assets/user-4.jpeg",
+    "/restro-frontend/assets/user-1.jpeg",
+    "/restro-frontend/assets/user-2.jpeg",
+    "/restro-frontend/assets/user-3.jpeg",
+    "/restro-frontend/assets/user-4.jpeg",
   ];
   return (
     <section className="flex flex-col items-center min-h-screen justify-center bg-[url('/assets/heroBanner.png')] bg-cover bg-center bg-no-repeat px-4 pt-20">
