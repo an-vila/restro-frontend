@@ -1,6 +1,6 @@
 import { StarIcon } from "lucide-react";
 import { testimonials } from "../data/data";
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 
 const TestimonialSection = () => {
   return (

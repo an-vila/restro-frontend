@@ -1,12 +1,14 @@
-import About from "./components/About"
-import BookingProcess from "./components/BookingProcess"
-import Dishes from "./components/Dishes"
-import Features from "./components/Features"
-import Hero from "./components/Hero"
+import About from "./sections/About"
+import BookingProcess from "./sections/BookingProcess"
+import CTA from "./sections/CTA"
+import Dishes from "./sections/Dishes"
+import FAQs from "./sections/FAQs"
+import Features from "./sections/Features"
+import Hero from "./sections/Hero"
 import Navbar from  "./components/Navbar"
-import Stats from "./components/Stats"
-import TestimonialSection from "./components/TestimonialSection"
-import Timing from "./components/Timing"
+import Stats from "./sections/Stats"
+import TestimonialSection from "./sections/TestimonialSection"
+import Timing from "./sections/Timing"
 
 const App = () => {
   return (
@@ -20,6 +22,8 @@ const App = () => {
       <BookingProcess />
       <Timing />
       <TestimonialSection />
+      <FAQs />
+      <CTA />
     </>
   )
 }

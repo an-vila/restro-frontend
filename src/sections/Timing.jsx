@@ -1,5 +1,5 @@
 import { timingData } from "../data/data";
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 
 const Timing = () => {
   return (

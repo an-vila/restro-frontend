@@ -1,5 +1,5 @@
 import { ChefHat, Heart, Leaf } from "lucide-react";
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 import { featuresData } from "../data/data";
 
 const iconMap = {

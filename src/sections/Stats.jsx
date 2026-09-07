@@ -1,4 +1,4 @@
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 import { statsData } from "../data/data";
 
 const Stats = () => {

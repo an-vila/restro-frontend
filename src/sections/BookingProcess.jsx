@@ -1,6 +1,6 @@
 import { Star } from "lucide-react";
 import { bookingSteps, bookingTestimonial } from "../data/data";
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 
 const BookingProcess = () => {
   return (

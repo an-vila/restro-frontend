@@ -1,4 +1,4 @@
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 
 const About = () => {
   return (

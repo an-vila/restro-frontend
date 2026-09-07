@@ -1,5 +1,5 @@
 import { Star } from "lucide-react";
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 
 const Hero = () => {
   const avatars = [

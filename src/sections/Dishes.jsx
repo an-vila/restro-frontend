@@ -1,4 +1,4 @@
-import Animated from "./Animated";
+import Animated from "../components/Animated";
 import { dishes } from "../data/data";
 import { motion } from "motion/react";
 import { useState } from "react";
