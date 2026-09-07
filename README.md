@@ -1,16 +1,19 @@
-# React + Vite
+# Restaurant Website Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This is a modern, fully responsive frontend interface built for a restaurant.
 
-Currently, two official plugins are available:
+You can check out the working version here: **[Live Demo](https://an-vila.github.io/restro-frontend/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Credits
 
-## React Compiler
+I built this project by following the tutorial by **GreatStack**. The original design and concept are entirely his. You can watch his original walkthrough here: [React JS Restaurant Website Project](https://www.youtube.com/watch?v=Jl6eivlQLYE).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tools & Technologies
 
-## Expanding the Oxlint configuration
+I set this up using **React** and **Vite** to keep the development process fast and optimized. Here is a quick breakdown of what is running under the hood:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+*   **[React](https://react.dev/) + [Vite](https://vitejs.dev/)**: The core framework and build tool powering the site.
+*   **[Tailwind CSS](https://tailwindcss.com/)**: Used for all the styling and making sure everything looks great on mobile devices.
+*   **[Lucide React](https://lucide.dev/)**: Kept the UI clean with these simple SVG icons.
+*   **[Motion](https://motion.dev/)**: Handled all the scroll-triggered animations and UI transitions (formerly Framer Motion).
+*   **[Lenis](https://lenis.studiofreight.com/)**: Added to override the default browser scroll and give the page a buttery-smooth scrolling effect.
