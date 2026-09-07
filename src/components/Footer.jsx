@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-wrap gap-6 justify-between pb-8">
           <div className="flex flex-col items-start text-left">
             <Animated>
-              <img src="/assets/logo.svg" alt="logo" />
+              <img src="/restro-frontend/assets/logo.svg" alt="logo" />
             </Animated>
             <Animated delay={0.2}>
               <p className="mt-3 text-sm/5.5 text-zinc-600 max-w-81.25">

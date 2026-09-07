@@ -19,49 +19,49 @@ export const statsData = [
 export const dishes = [
     {
         id: "01",
-        img: "/assets/dish1.png",
+        img: "/restro-frontend/assets/dish1.png",
         title: "Grilled Chicken Alfredo",
         price: "$24"
     },
     {
         id: "02",
-        img: "/assets/dish2.png",
+        img: "/restro-frontend/assets/dish2.png",
         title: "Mushroom Risotto",
         price: "$22"
     },
     {
         id: "03",
-        img: "/assets/dish3.png",
+        img: "/restro-frontend/assets/dish3.png",
         title: "Caprese Salad",
         price: "$16"
     },
     {
         id: "04",
-        img: "/assets/dish4.png",
+        img: "/restro-frontend/assets/dish4.png",
         title: "Spaghetti & Meatballs",
         price: "$23"
     },
     {
         id: "05",
-        img: "/assets/dish5.png",
+        img: "/restro-frontend/assets/dish5.png",
         title: "Caesar Salad",
         price: "$15"
     },
     {
         id: "06",
-        img: "/assets/dish6.png",
+        img: "/restro-frontend/assets/dish6.png",
         title: "Grilled Atlantic Salmon",
         price: "$29"
     },
     {
         id: "07",
-        img: "/assets/dish7.png",
+        img: "/restro-frontend/assets/dish7.png",
         title: "Grilled Ribeye Steak",
         price: "$39"
     },
     {
         id: "08",
-        img: "/assets/dish8.png",
+        img: "/restro-frontend/assets/dish8.png",
         title: "Seafood Linguine",
         price: "$29"
     }

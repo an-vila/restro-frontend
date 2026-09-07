@@ -21,7 +21,7 @@ const Navbar = () => {
       >
         <div className="flex items-center justify-between font-medium py-4 mx-auto max-w-7xl">
           <a href="/">
-            <img src="/assets/logo.svg" alt="logo" />
+            <img src="/restro-frontend/assets/logo.svg" alt="logo" />
           </a>
 
           <div className="hidden md:flex items-center gap-10">

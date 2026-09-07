@@ -6,16 +6,16 @@ const About = () => {
       <div className="flex flex-col md:flex-row gap-14 md:gap-18 max-w-7xl mx-auto">
         <Animated scale={0.8} y={0}>
           <img
-            src="/assets/about.png"
+            src="/restro-frontend/assets/about.png"
             alt="Dish"
             className="max-w-137 w-full h-full object-cover rounded-3xl"
           />
         </Animated>
         <div>
           <Animated scale={0.8} y={0} className="flex items-center gap-2">
-            <img src="/assets/iconL.png" alt="iconLeft" />
+            <img src="/restro-frontend/assets/iconL.png" alt="iconLeft" />
             <span className="font-medium uppercase">Crafted with Passion</span>
-            <img src="/assets/iconR.png" alt="iconRight" />
+            <img src="/restro-frontend/assets/iconR.png" alt="iconRight" />
           </Animated>
           <Animated scale={0.8} y={0} className="flex items-center gap-2">
             <span className="mt-5 text-4xl md:text-5xl text-balance">
@@ -32,7 +32,7 @@ const About = () => {
 
           <Animated className="mt-9 bg-orange-500 text-white p-2 pr-8 rounded-lg flex items-center gap-3 w-fit">
             <img
-              src="/assets/about.png"
+              src="/restro-frontend/assets/about.png"
               alt="Bistro Royale Location Preview"
               className="size-15 rounded-lg object-cover shrink-0"
             />
