@@ -45,7 +45,7 @@ const Features = () => {
 
         <Animated x={50} y={0}>
           <img
-            src="restro-frontend/assets/chef.png"
+            src="/restro-frontend/assets/chef.png"
             alt="Chef"
             className="w-full max-w-sm h-111 object-cover rounded-3xl"
           />
