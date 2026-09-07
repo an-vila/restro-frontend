@@ -10,10 +10,12 @@ import Stats from "./sections/Stats"
 import TestimonialSection from "./sections/TestimonialSection"
 import Timing from "./sections/Timing"
 import Footer from "./components/Footer"
+import LenisScroll from "./components/LenisScroll"
 
 const App = () => {
   return (
     <>
+      <LenisScroll />
       <Navbar />
       <Hero />
       <About />
