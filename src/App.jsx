@@ -5,6 +5,7 @@ import Features from "./components/Features"
 import Hero from "./components/Hero"
 import Navbar from  "./components/Navbar"
 import Stats from "./components/Stats"
+import TestimonialSection from "./components/TestimonialSection"
 import Timing from "./components/Timing"
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <Features />
       <BookingProcess />
       <Timing />
+      <TestimonialSection />
     </>
   )
 }
